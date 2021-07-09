@@ -1,0 +1,60 @@
+body {
+  background: #ddd;
+  margin: 1rem;
+  padding: 1rem;
+  max-width: 500px;
+  margin: 2rem auto;
+  font-family: "Open Sans", sans-serif;
+}
+
+nav {
+	border-bottom: 2px solid orange;
+}
+
+ol {
+	padding-left: 0;
+}
+
+.crumb {
+	margin-right: 2em;
+	display: inline;
+}
+
+a {
+	color: orange;
+}
+
+a:visited {
+	color: crimson;
+}
+
+
+input {
+	display: block;
+}
+
+img {
+	max-width: 300px;
+}
+
+/* .color {
+font-size: large;
+color: yellow;
+background-color: yellow;
+} */
+/* #color {
+font-size: large;
+color: yellow;
+background-color: yellow;
+} */
+/* .colorBtn {
+font-size: large;
+color: yellow;
+background-color: yellow;
+} */
+/* #colorBtn {
+font-size: large;
+color: yellow;
+background-color: yellow;
+} */
+/* could not find out how to change with css so did research and changed through html style. tried copying class like crumb in other html. relinking profile.js to style.css sheet. I am confucia */

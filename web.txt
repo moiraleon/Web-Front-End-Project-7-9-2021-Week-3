@@ -1,0 +1,13 @@
+**How does the internet work? What happens when you click on a link? **
+
+The The Internet is at its most basic form just a wire that allows data to be shared.
+Data that is shared between two computers is processed through a server. A server is connected directly to the Internet.
+The websites and pages that we access daily are stored on the hard drives Of different servers. All servers have their own unique IP address.
+The machines that we use at home are not servers because they are not directly connected to the Internet but are reffered to as "clients".
+However, some servers can be clients and servers. It works by passing small packets of data through a median which is a wire that carries these signals (or wireless transmission).
+Routers also help pass these signals and function by directing them in the correct path. 2 points can communicates (you and a friend) by having a server procees and send the data form point A to point B.
+
+links are made up of different parts. The first part that is typically HTTP:// Or hTTPS://it's called the protocol that tells us that the language is web source and written in something called hypertext. 
+The next portion of our URL is the WWW which stands for the World Wide Web. The third part is the domain name something such as google.com which is made out of two parts
+the first being the name of the website called the subdomain and the .com referred to as the top-level-domain which together make up or ip ddress. When we click on our link the encoded 
+IP address is the location from which our machine which locate the server to retrieve the link or webpage details.
